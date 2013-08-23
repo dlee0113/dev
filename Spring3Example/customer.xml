@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer age="30">
+	<flag>true</flag>
+	<name>name1</name>
+	<street>street</street>
+	<city>city</city>
+	<zipcode>12345</zipcode>
+</customer>
